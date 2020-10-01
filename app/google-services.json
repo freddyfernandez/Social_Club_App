@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697134279063",
+    "firebase_url": "https://social-club-app.firebaseio.com",
+    "project_id": "social-club-app",
+    "storage_bucket": "social-club-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697134279063:android:5abd358d8ce731c5317cd2",
+        "android_client_info": {
+          "package_name": "com.example.socialclubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697134279063-8kkurs1r8kts4kg36qvfmgev8gibo592.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9nmL8VFVGSA9ckTlRtaBKEKQo-BusCRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697134279063-8kkurs1r8kts4kg36qvfmgev8gibo592.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
